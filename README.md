@@ -1,0 +1,1 @@
+Testing basics of Sinatra
